@@ -75,6 +75,25 @@ L'objectif de ce mini-projet est de quantifier la présence de flou dans une ima
 3. générer des images floutées et calculer pour chaque méthode la corrélation entre le coefficient obtenu et la quantité de flou réelle.
 4. *bonus, si vous avez le temps*: appliquer le détecteur de flou sur un flux vidéo.
 
+### Sujet 7 : génération de textures
+
+L'objectif de ce mini-projet est de générer automatiquement des textures fractales qui semblent plausibles. Pour ce faire, on cherchera à implémenter le [bruit de Perlin](https://fr.wikipedia.org/wiki/Bruit_de_Perlin).
+
+Étapes:
+1. comprendre le principe du bruit de Perlin
+1. implémenter l'algorithme du bruit de Perlin à 2 dimensions
+2. appliquer un gradient de couleur donnant divers aspects (eau, feu, …)
+3. *bonus, si vous avez le temps*: étendre l'implémentation au bruit de Perlin à 3 dimensions pour généreer des animations.
+
+### Sujet 8 : création de panoramas
+
+L'objectif de ce mini-projet est crééer automatiquement des panoramas, par exemple à 360°, en combinant plusieurs photos prises depuis le même point de vue. On pourra utiliser une détection de points d'intérêt (manuelle ou automatique) puis estimer la matrice d'homographie pour passer d'une image à la suivante.
+
+Étapes:
+1. implémenter une sélection manuelle d'au moins quatre points d'intérêts
+2. implémenter l'estimation de l'homographie pour coller ensemble deux images
+3. étendre le programme pour coller ensemble plusieurs images
+4. *bonus, si vous avez le temps*: utiliser un algorithme d'extraction automatique des points d'intérêt
 
 Le rendu est à faire sous forme d'un *notebook* Jupyter qui contient :
 - le code permettant de tester le démonstrateur,
