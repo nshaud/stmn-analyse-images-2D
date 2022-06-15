@@ -11,7 +11,7 @@ La quantité de travail attendue est de l'ordre d'une journée maximum (5h à 7h
 
 ## Sujets
 
-Il y a pour l'instant six sujets de projet proposés. Chaque projet est à réaliser en binôme ou en trinôme, de préférence en trinôme. Un projet ne peut être choisi que par un seul groupe.
+Il y a pour l'instant huit sujets de projet proposés. Chaque projet est à réaliser en binôme ou en trinôme, de préférence en trinôme. Un projet ne peut être choisi que par un seul groupe.
 
 Vous pouvez aussi proposer un sujet de votre choix mais il doit être validé par l'enseignant *avant* que vous commenciez à travailler dessus.
 
