@@ -5,3 +5,4 @@ tqdm>=4.0.0
 numpy>=1.21.0
 scipy>=1.7.0
 notebook>=6.4.0
+jupyterlab_rise>=0.1.0
