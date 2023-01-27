@@ -1,0 +1,8 @@
+format: jb-book
+root: README
+chapters:
+- file: TP0 - Représentations des images et espaces de couleur.ipynb
+- file: TP1 - Filtrage.ipynb
+- file: TP2 - Extraction de points d'intérêt.ipynb
+- file: TP3 - Segmentation.ipynb
+- file: TP4 - Descripteurs d'image.ipynb 

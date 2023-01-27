@@ -1,0 +1,8 @@
+title: Analyse des images 2D
+author: Nicolas Audebert
+execute:
+  execute_notebooks: auto
+
+sphinx:
+  config:
+    language: fr
