@@ -8,5 +8,5 @@ notebook>=6.4.0
 RISE>=5.0.0
 jupyterlab_rise>=0.1.0
 jupyter-book>=0.13.1
-jupyter-notebook~=0.6.0
-jupyter-lab>=3.5.1
+notebook~=6.4.0
+jupyterlab>=3.5.1
