@@ -1,7 +1,7 @@
 title: Analyse des images 2D
 author: Nicolas Audebert
 execute:
-  execute_notebooks: auto
+  execute_notebooks: cache
 
 sphinx:
   config:
