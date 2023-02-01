@@ -16,7 +16,7 @@ des questions de cours sur douze points et un exercice sur huit points.*
 
 ### Question 1
 
-```{figure} ./filtrages.jpg
+```{figure} ./exam/filtrages.jpg
     :name: filtrages
 
 Images d'une racine de plante, altérée par trois filtres différents.
@@ -87,7 +87,7 @@ Le descripteur BRIEF fonctionne sur ce principe.
 
 ### Question 4
 
-```{figure} ./bouteille.jpg
+```{figure} ./exam/bouteille.jpg
     :name: bouteille
     :width: 50%
 
@@ -147,28 +147,28 @@ activation élevée près des contours.
 
 ## Exercice (8 points)
 
-```{figure} ./page_projective.jpg
+```{figure} ./exam/page_projective.jpg
     :name: page_projective
     :width: 40%
 
 Page de texte mal scannée.
 ```
 
-```{figure} ./page.jpg
+```{figure} ./exam/page.jpg
     :name: page
     :width: 40%
 
 Page de texte redressée.
 ```
 
-```{figure} ./detections.jpg
+```{figure} ./exam/detections.jpg
     :name: detections
     :width: 40%
 
 Symboles détectées.
 ```
 
-```{figure} ./detections_zoom.jpg
+```{figure} ./exam/detections_zoom.jpg
     :name: detections_zoom
     :width: 40%
 
