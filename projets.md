@@ -75,15 +75,16 @@ L'objectif de ce mini-projet est de quantifier la présence de flou dans une ima
 3. générer des images floutées et calculer pour chaque méthode la corrélation entre le coefficient obtenu et la quantité de flou réelle.
 4. *bonus, si vous avez le temps*: appliquer le détecteur de flou sur un flux vidéo.
 
-### Sujet 7 : génération de textures
+### Sujet 7 : version cartoon d'une image
 
-L'objectif de ce mini-projet est de générer automatiquement des textures fractales qui semblent plausibles. Pour ce faire, on cherchera à implémenter le [bruit de Perlin](https://fr.wikipedia.org/wiki/Bruit_de_Perlin).
+L'objectif de ce mini-projet est de transformer une photo pour lui donner un effet *cartoon* dessiné (voir un exemple [ici](https://dezyre.gumlet.io/images/blog/computer-vision-projects/CartooniseImage.gif?w=1242&dpr=1.0)). Pour ce faire, on combinera un mélange de différentes techniques : détection et renforcement des contours, lissage des couleurs, etc.
 
-Étapes:
-1. comprendre le principe du bruit de Perlin
-1. implémenter l'algorithme du bruit de Perlin à 2 dimensions
-2. appliquer un gradient de couleur donnant divers aspects (eau, feu, …)
-3. *bonus, si vous avez le temps*: étendre l'implémentation au bruit de Perlin à 3 dimensions pour généreer des animations.
+Étapes :
+1. implémenter une détection de contours sur l'image
+2. renforcer les contours en leur appliquant un trait noir semi-transparent
+3. lisser les couleurs de l'image en utilisant un floutage ou une stylisation par segmentation
+4. *bonus, si vous avez le temps*: appliquer la « cartoonification » en temps réel sur un flux vidéo.
+
 
 ### Sujet 8 : création de panoramas
 
